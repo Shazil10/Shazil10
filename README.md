@@ -1,6 +1,6 @@
 # Hi, I am Shazil! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&lines=Analyst+%40+World+Bank+Treasury;AI+%C3%97+Finance+Builder;Quant+%7C+ML+%7C+FinTech+Nerd)](https://shazilfarukh.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&lines=Analyst+%40+World+Bank+Treasury;%20%20%20AI+%C3%97+Finance+Builder%20%20%20;%20%20Quant+%7C+ML+%7C+FinTech%20%20)](https://shazilfarukh.com)
 
 ## About me
 
