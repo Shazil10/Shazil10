@@ -11,7 +11,6 @@
 - Analyst on the **Financial Technology** team at [World Bank Treasury](https://treasury.worldbank.org) — building quantitative workflows for fixed income, capital markets, and asset management ($80B AUM, 70+ central banks).
 - Previously: investment banking @ **Vermilion Rock Advisors**, venture investing @ **Red Cell Partners**, corporate finance @ **Siemens**.
 - Currently most interested in **AI for finance** — LLM-powered research tools, agentic workflows, and quant modeling.
-- Studying at **Minerva University** (SF/global) — CS + Business double major.
 
 ## 🛠 Skills
 
