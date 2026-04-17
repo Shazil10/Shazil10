@@ -43,6 +43,14 @@
 
 ## 🔗 Connect with me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shazilfarukh.com-64ffda?style=flat&logoColor=white)](https://shazilfarukh.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--shazil--farukh-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shazil-farukh/)
-[![Email](https://img.shields.io/badge/Email-m.farukh@uni.minerva.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:m.farukh@uni.minerva.edu)
+<p align="center">
+  <a href="https://shazilfarukh.com">
+    <img src="https://img.shields.io/badge/Portfolio-shazilfarukh.com-64ffda?style=for-the-badge&labelColor=1f2937&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-shazil-farukh/">
+    <img src="https://img.shields.io/badge/LinkedIn-muhammad--shazil--farukh-0077B5?style=for-the-badge&labelColor=1f2937&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:m.farukh@uni.minerva.edu">
+    <img src="https://img.shields.io/badge/Email-m.farukh@uni.minerva.edu-D14836?style=for-the-badge&labelColor=1f2937&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
